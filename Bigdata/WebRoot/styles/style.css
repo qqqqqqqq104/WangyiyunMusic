@@ -1,0 +1,30 @@
+@CHARSET "UTF-8";
+body{
+	background-color: #FDF5E6;
+}
+
+.left{
+	margin-left:150px;
+	width:1000px;
+	height:1400px;
+	border:2px solid #FFFAFA;
+	text-align:center;
+}
+.right{
+	margin-left:150px;
+	width:1000px;
+	height:600px;
+	border:2px solid #FFFAFA;
+}
+.view_table{
+	margin:auto;
+}
+td{
+	width:160px;
+	border:1px solid black;
+}
+table{
+	margin-left:250px;
+	/*color:white;*/
+	border-collapse:collapse;
+}
